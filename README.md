@@ -68,7 +68,7 @@ Rajshahi-6204
 
 | Experiment No. | Experiment Title | Report |
 |:--------------:|------------------|:------:|
-| 01 |Basic Gates | [Lab-01](https://github.com/shibajitdas/ECE-2112_2410059/blob/main/lab_reports/lab_01.md)|
+| 01 |Basic Gates | [Lab-01](https://github.com/naim2005ccs/ECE-2112_2410055/blob/main/lab_reports/lab_01.md)|
 | 02 | | |
 | 03 | | |
 | 04 | | |
