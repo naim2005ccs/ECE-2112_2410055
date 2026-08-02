@@ -48,11 +48,11 @@ Rajshahi-6204
 
 # Submitted By
 
-## Shibajit Das
+## Naimul Haque
 
-Roll No: 2410059
+Roll No: 2410055
 
-Registration No: 1112
+Registration No: 1108
 
 Department of Electrical & Computer Engineering
 
