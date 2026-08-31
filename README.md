@@ -69,7 +69,7 @@ Rajshahi-6204
 | Experiment No. | Experiment Title | Report |
 |:--------------:|------------------|:------:|
 | 01 |Basic Gates | [Lab-01](https://github.com/naim2005ccs/ECE-2112_2410055/blob/main/lab_reports/lab_01.md)|
-| 02 | | |
+| 02 |Equation solving using logisim evolution | [Lab-02](https://github.com/naim2005ccs/ECE-2112_2410055/blob/a7bbf77b292e5e7b83b5c08d3135745bdc0f6ede/lab_reports/DT%20lab%20report3%20naim.pdf)|
 | 03 | | |
 | 04 | | |
 | 05 | | |
